@@ -35,3 +35,7 @@ Constantes
 # Operadores
 
 Operadores de atribuição de valor
+
+# Estrutura de repetição
+
+[x] While
