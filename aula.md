@@ -15,34 +15,42 @@ Como um lego, você ira utilizar peças para criar algoritmos, ou seja, para res
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
+# Fases de resolução de um problema
+
+- Coletar dados
+- Processar os dados (manipular, alterar, ...)
+- Apresentar os dados 
+
 # Fases da resolução de um problema
 
-Coleta de dados
-Processar os dados (manipular, alterar ...)
-Apresentador os dados
+- [x] Coleta de dados
+- [x] Processar os dados (manipular, alterar ...)
+- [x] Apresentador os dados
 
 # Tipos de dados
 
-String (textos):
-Number;
-Function
+- [x] String (textos):
+- [x] Number;
+- [x] Function
 
 # Escopos e variáveis
 
-Variaveis globais e locais
-Constantes
+- [x] Variaveis globais e locais
+- [x] Constantes
 
 # Operadores
 
-Operadores de atribuição de valor
+- [x] Operadores de atribuição de valor
+- [x] Operador de concatenação + 
+- [x] Operadores de comparação: == != <= >=  < > 
 
 # Estrutura de repetição
 
-[x] While
+- [x] While
 
 # Condicionais
 
-[x] Switch
+- [x] Switch
 
 ## Módulos em Node.js:
 
