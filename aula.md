@@ -39,3 +39,7 @@ Operadores de atribuição de valor
 # Estrutura de repetição
 
 [x] While
+
+# Condicionais
+
+[x] Switch
