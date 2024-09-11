@@ -38,11 +38,20 @@ Como um lego, você ira utilizar peças para criar algoritmos, ou seja, para res
 - [x] Variaveis globais e locais
 - [x] Constantes
 
+# Estrutura de dados:
+
+
+### Arrays:
+ 
+ - [x] Uma lista que contém qualquer tipo de dado
+ - [x] Métodos de arrays: push, [find, forEach, filter] : HOF (Higher Order Functions)
+
 # Operadores
 
 - [x] Operadores de atribuição de valor
 - [x] Operador de concatenação + 
 - [x] Operadores de comparação: == != <= >=  < > 
+- [x] spread operator: ...
 
 # Estrutura de repetição
 
